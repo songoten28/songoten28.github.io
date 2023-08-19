@@ -5,10 +5,8 @@ appodeal.com, 97510, DIRECT
 bidmachine.io, 97510, DIRECT
 #AdMob
 #Replace the Publisher_ID below with your Admob Publisher ID
-google.com, Publisher_ID, DIRECT, f08c47fec0942fa0
-#Meta Facebook
-#Replace the Business_ID below with your Meta Business ID
-facebook.com,Business_ID,DIRECT,c3e20eee3f780d68 
+google.com, pub-3037776976179902, DIRECT, f08c47fec0942fa0
+
 
 #Resellers
 152media.info,152M10,RESELLER
