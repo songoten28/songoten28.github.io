@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="tunnel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/tunnel/tunnel_3.2.4_Linux_arm64.zip!/" />
+      <root url="jar://$PROJECT_DIR$/tunnel/tunnel_3.2.4_Linux_arm.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
